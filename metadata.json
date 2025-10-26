@@ -1,0 +1,5 @@
+{
+  "name": "AI Skin Disease Detector",
+  "description": "An AI-powered application that allows users to upload or capture a photo of a skin condition to receive a preliminary analysis, including a potential diagnosis, description, and treatment suggestions. This tool is for informational purposes only and does not replace professional medical advice.",
+  "requestFramePermissions": []
+}
